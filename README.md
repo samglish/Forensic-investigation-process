@@ -29,3 +29,14 @@ L'investigation des crimes informatiques est une branche de la criminalistique n
 * Rédaction d’un rapport technique clair et chronologique.
 * Exploitation en justice : témoins experts, dépôt des preuves.
 
+### Types de crimes informatiques étudiés
+
+| Type de Crime  | Exemple                                          |
+| -------------- | ------------------------------------------------ |
+| **Intrusion**  | Accès non autorisé à un serveur                  |
+| **Fraude**     | Phishing, détournement bancaire                  |
+| **Espionnage** | Vol de données confidentielles                   |
+| **Sabotage**   | Suppression de données ou déni de service        |
+| **Piratage**   | Déploiement de logiciels malveillants (malwares) |
+
+
