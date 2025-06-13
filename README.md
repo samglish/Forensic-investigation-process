@@ -1,42 +1,44 @@
 # Forensic-investigation-process
 The forensic process involves collecting, analyzing, and preserving digital evidence to understand security incidents.
-## Investigation des crimes informatiques
+## Computer Crime Investigation
 
 ### Introduction
-L'investigation des crimes informatiques est une branche de la criminalistique numérique qui vise à détecter, analyser, préserver, et présenter des preuves numériques en lien avec des activités illicites commises via ou contre des systèmes informatiques.
+Computer crime investigation is a branch of digital forensics that aims to detect, analyze, preserve, and present digital evidence related to illegal activities carried out via or against computer systems.
 
-### Objectifs de l’investigation numérique
-* Identifier les sources de preuve numérique.
-* Préserver l'intégrité des données collectées.
-* Reconstituer les événements ayant conduit à une attaque.
-* Identifier les auteurs ou responsables d’une action malveillante.
-* Fournir des preuves recevables devant une cour de justice.
+### Objectives of Digital Investigation
+* Identify sources of digital evidence.
+* Preserve the integrity of collected data.
+* Reconstruct events that led to an attack.
+* Identify the perpetrators or those responsible for malicious actions.
+* Provide admissible evidence in a court of law.
 
-### Étapes clés de l’investigation
+### Key Steps in the Investigation
 1. Identification
-* Détection d’un incident ou crime (ex: intrusion, fraude, vol de données).
-* Délimitation de la scène numérique du crime.
-2. Préservation
-* Sauvegarde des systèmes, disques, journaux d’événements.
-* Utilisation d’outils d’imagerie (bit-à-bit) pour éviter d’altérer les preuves.
-3. Collecte
-* Extraction de fichiers, emails, logs, métadonnées, etc.
-* Respect de la chaîne de traçabilité (chain of custody).
-4. Analyse
-* Examen des données à l’aide d’outils spécialisés (ex : EnCase, Autopsy, Volatility).
-* Reconstruction des activités : connexions, transferts, suppressions, etc.
-5. Présentation
-* Rédaction d’un rapport technique clair et chronologique.
-* Exploitation en justice : témoins experts, dépôt des preuves.
+* Detection of an incident or crime (e.g., intrusion, fraud, data theft).
+* Defining the digital crime scene.
 
-### Types de crimes informatiques étudiés
+2. Preservation
+* Backing up systems, drives, and event logs.
+* Using bit-by-bit imaging tools to avoid altering evidence.
 
-| Type de Crime  | Exemple                                          |
-| -------------- | ------------------------------------------------ |
-| **Intrusion**  | Accès non autorisé à un serveur                  |
-| **Fraude**     | Phishing, détournement bancaire                  |
-| **Espionnage** | Vol de données confidentielles                   |
-| **Sabotage**   | Suppression de données ou déni de service        |
-| **Piratage**   | Déploiement de logiciels malveillants (malwares) |
+3. Collection
+* Extracting files, emails, logs, metadata, etc.
+* Maintaining the chain of custody.
 
+4. Analysis
+* Examining data using specialized tools (e.g., EnCase, Autopsy, Volatility).
+* Reconstructing activities: logins, transfers, deletions, etc.
 
+5. Presentation
+* Writing a clear and chronological technical report.
+* Legal use of evidence: expert testimony, submitting evidence in court.
+
+### Types of Computer Crimes Investigated
+
+| Type of Crime   | Example                                           |
+|-----------------|---------------------------------------------------|
+| **Intrusion**    | Unauthorized access to a server                  |
+| **Fraud**        | Phishing, bank fraud                             |
+| **Espionage**    | Theft of confidential data                       |
+| **Sabotage**     | Data deletion or denial of service               |
+| **Hacking**      | Deployment of malicious software (malware)       |
