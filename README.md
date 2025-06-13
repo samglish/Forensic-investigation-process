@@ -42,3 +42,21 @@ Computer crime investigation is a branch of digital forensics that aims to detec
 | **Espionage**    | Theft of confidential data                       |
 | **Sabotage**     | Data deletion or denial of service               |
 | **Hacking**      | Deployment of malicious software (malware)       |
+
+### Tools and Methods Used
+
+**Disk Analysis**: FTK Imager, Autopsy  
+**RAM Analysis**: Volatility Framework  
+**Network Analysis**: Wireshark, tcpdump  
+**Timeline and Correlation**: Plaso, SleuthKit
+
+### Legal Aspects
+
+* Comply with local laws (e.g., GDPR, cybersecurity laws, Budapest Convention).
+* Digital evidence must be **authentic**, **intact**, **complete**, and **explainable**.
+
+### Best Practices
+
+* Always work on a **copy** of the original data.
+* **Document** every action (time, tool used, responsible person).
+* Use **certified tools** recognized by the forensic community.
