@@ -14,27 +14,18 @@ L'investigation des crimes informatiques est une branche de la criminalistique n
 
 ### Étapes clés de l’investigation
 1. Identification
-Détection d’un incident ou crime (ex: intrusion, fraude, vol de données).
-
-Délimitation de la scène numérique du crime.
-
+* Détection d’un incident ou crime (ex: intrusion, fraude, vol de données).
+* Délimitation de la scène numérique du crime.
 2. Préservation
-Sauvegarde des systèmes, disques, journaux d’événements.
-
-Utilisation d’outils d’imagerie (bit-à-bit) pour éviter d’altérer les preuves.
-
+* Sauvegarde des systèmes, disques, journaux d’événements.
+* Utilisation d’outils d’imagerie (bit-à-bit) pour éviter d’altérer les preuves.
 3. Collecte
-Extraction de fichiers, emails, logs, métadonnées, etc.
-
-Respect de la chaîne de traçabilité (chain of custody).
-
+* Extraction de fichiers, emails, logs, métadonnées, etc.
+* Respect de la chaîne de traçabilité (chain of custody).
 4. Analyse
-Examen des données à l’aide d’outils spécialisés (ex : EnCase, Autopsy, Volatility).
-
-Reconstruction des activités : connexions, transferts, suppressions, etc.
-
+* Examen des données à l’aide d’outils spécialisés (ex : EnCase, Autopsy, Volatility).
+* Reconstruction des activités : connexions, transferts, suppressions, etc.
 5. Présentation
-Rédaction d’un rapport technique clair et chronologique.
-
-Exploitation en justice : témoins experts, dépôt des preuves.
+* Rédaction d’un rapport technique clair et chronologique.
+* Exploitation en justice : témoins experts, dépôt des preuves.
 
